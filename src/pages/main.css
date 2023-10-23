@@ -1,0 +1,22 @@
+.main-container {
+    text-align: center; /* Выравнивание по центру */
+  }
+  .footer {
+    margin-top: 20px; /* Вы можете настроить отступ на свой вкус */
+  }
+  
+  
+  .button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .random-movie-button {
+    margin-top: 20px; /* Отступ сверху */
+  }
+  
+  .random-movie-info {
+    text-align: center; /* Выравнивание заголовка по центру */
+  }
+  
